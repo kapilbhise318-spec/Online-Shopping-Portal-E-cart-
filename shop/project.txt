@@ -1,0 +1,6 @@
+E-Commerce Web Application (Personal Project) | Python, Django, HTML5, CSS3, Bootstrap
+Developed a full-stack e-commerce platform inspired by Flipkart,
+ featuring product listings, category browsing, product detail pages,
+  and a responsive UI for enhanced customer experience. Implemented backend 
+  logic using Django's MVT architecture and designed a 
+mobile-friendly frontend using Bootstrap.
